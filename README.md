@@ -1,2 +1,40 @@
-# Sales-Performance-Analysis-Using-Python
-A practical sales data analysis project using Python, Pandas, NumPy, and Matplotlib, covering data cleaning, KPI calculation, product and regional analysis, monthly revenue trends, visualization, and business insights.
+# Sales Data Analysis 📊
+
+مشروع بسيط وعملي لتحليل بيانات المبيعات باستخدام Python وPandas.
+
+## فكرة المشروع
+يهدف المشروع إلى تنظيف بيانات مبيعات تجريبية واستخراج مؤشرات تساعد على فهم أداء المبيعات، مثل إجمالي الإيرادات والأرباح، متوسط قيمة الطلب، المنتجات الأعلى مبيعًا، أداء المناطق، واتجاه المبيعات شهريًا.
+
+## التقنيات المستخدمة
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- CSV Data Processing
+
+## خطوات العمل
+1. قراءة ملف CSV.
+2. فحص وتنظيف البيانات.
+3. معالجة القيم المفقودة.
+4. إنشاء أعمدة Revenue وProfit.
+5. استخراج مؤشرات الأداء الرئيسية.
+6. تحليل المبيعات حسب المنتج والمنطقة والشهر.
+7. إنشاء رسوم بيانية لتسهيل فهم النتائج.
+
+## النتائج الرئيسية
+- إجمالي الإيرادات: **19,350.00**
+- إجمالي الأرباح: **5,884.24**
+- عدد الطلبات: **120**
+- متوسط قيمة الطلب: **161.25**
+- هامش الربح: **30.41%**
+
+## الملفات
+- `sales_data.csv` — البيانات المستخدمة.
+- `Sales_Data_Analysis.ipynb` — التحليل الكامل والكود.
+- `monthly_revenue.png` — المبيعات الشهرية.
+- `revenue_by_product.png` — الإيرادات حسب المنتج.
+- `revenue_by_region.png` — الإيرادات حسب المنطقة.
+
+## ملاحظة
+البيانات المستخدمة تجريبية ومخصصة لأغراض التعلم وعرض المهارات في تحليل البيانات.
